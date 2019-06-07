@@ -11,6 +11,12 @@ package aula0606;
  */
 public class Aula0606 {
 //oi
+/**
+ *
+ * @author GC-Aula
+ */
+public class Aula0606 {
+
     /**
      * @param args the command line arguments
      */
